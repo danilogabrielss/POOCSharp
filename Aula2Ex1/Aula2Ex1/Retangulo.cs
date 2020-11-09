@@ -9,17 +9,17 @@ namespace Aula2Ex1
 {
     class Retangulo
     {
-        private int comprimento;
-        private int altura;
-        private int largura;
-        private int media;
+        public int comprimento;
+        public int altura;
+        public int largura;
+        public int media;
 
-        public Retangulo(int comprimentoRetangulo, int alturaRetangulo, int larguraRetangulo, int mediaRetangulo)
+        /*public Retangulo(int comprimentoRetangulo, int alturaRetangulo, int larguraRetangulo, int mediaRetangulo)
         {
-            comprimento = comprimentoRetangulo;
-            altura = alturaRetangulo;
-            largura = larguraRetangulo;
-            media = mediaRetangulo;
+            comprimentoRetangulo = comprimento;
+            alturaRetangulo = altura;
+            larguraRetangulo = largura;
+            mediaRetangulo = media;
         }
         public Retangulo()
         {
@@ -27,7 +27,7 @@ namespace Aula2Ex1
             altura = 0;
             largura = 0;
             media = 0;
-        }
+        }*/
 
         public string CalcularVolume()
         {
