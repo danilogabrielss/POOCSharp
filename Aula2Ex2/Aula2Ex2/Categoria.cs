@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace Aula2Ex2
 {
-    class Class1
+    class Categoria
     {
+
     }
 }

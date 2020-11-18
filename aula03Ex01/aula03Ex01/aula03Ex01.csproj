@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{50F69ECC-7CAC-40DC-B1E2-759601E170ED}</ProjectGuid>
+    <ProjectGuid>{C777E931-B921-4115-8470-59E09597A7E8}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>Aula2Ex2</RootNamespace>
-    <AssemblyName>Aula2Ex2</AssemblyName>
+    <RootNamespace>aula03Ex01</RootNamespace>
+    <AssemblyName>aula03Ex01</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -46,7 +46,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Categoria.cs" />
+    <Compile Include="SomaQuadrados.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
