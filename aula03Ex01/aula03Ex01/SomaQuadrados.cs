@@ -16,9 +16,9 @@ namespace aula03Ex01
         //Construtor
         public SomaQuadrados()
         {
-            N1 = 0;
-            N2 = 0;
-            N3 = 0;
+            n1 = 0;
+            n2 = 0;
+            n3 = 0;
         }
         //Propriedades
         public double N1
